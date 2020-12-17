@@ -1,0 +1,5 @@
+OBJECT_BASE 594263.btg
+OBJECT NTKU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -143.047615 -20.695805 6.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -143.042915 -20.705242 12.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -143.045069 -20.702694 12.1 0.00
